@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         Calculadora Promo — MELI Margem Lite 3
-// @namespace    http://tampermonkey.net/
-// @version      9.12.0-LITE
+// @name         Calculadora Promo — MELI Margem Lite
+// @namespace    https://github.com/xTiozao
+// @version      9.13.0-LITE
 // @description  Exibe somente custo, imposto, lucro e margem nas promoções visíveis e gera diagnóstico de desempenho no F12.
 // @match        https://vendedores.mercadolivre.com.br/anuncios/lista/promos*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @connect      docs.google.com
+// @updateURL    https://raw.githubusercontent.com/xTiozao/MargemPromoML/main/Calculadora-Promo-MELI-Lite.user.js
+// @downloadURL  https://raw.githubusercontent.com/xTiozao/MargemPromoML/main/Calculadora-Promo-MELI-Lite.user.js
 // @run-at       document-idle
 // ==/UserScript==
 
